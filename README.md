@@ -1,2 +1,3 @@
 # mnist-convolutional
-applying a model with a convolutional layer to mnist
+
+Applying a convolutional neural network to the MNIST dataset
